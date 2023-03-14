@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Conixia
 - 👀 I’m interested in Node and testnet
-- 🌱 I’m currently learning Coding
-- 💞️ I’m looking to collaborate on Crypto  
+- 🌱 I’m currently learning web3
+- 💞️ I’m looking to invest on Crypto  
 - 📫 How to reach me twitter @rugpullsir
